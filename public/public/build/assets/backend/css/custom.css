@@ -1,0 +1,22 @@
+.tr_enable{
+background: #fff;
+}
+.tr_disable{
+background: #ff6f8929;
+}
+ .del-btn {
+    border: 0;
+    padding: 0;
+    background: transparent;
+  }
+
+  .del-btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  .logo-wrapper {
+        padding: 0px 25px !important;
+  }
+   .logo-wrapper img{
+    width: 70% !important;
+   }
